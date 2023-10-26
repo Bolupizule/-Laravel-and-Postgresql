@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bolupizule
 - Full name : Dosunmu Boluwatife 
-- 🌱 I’m currently studing cloud engineering  
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studing cloud engineering 
 - 📫 How to reach me :
 -email; bdosunmu34@gmail.com
 - whatsapp number : 07031450259
